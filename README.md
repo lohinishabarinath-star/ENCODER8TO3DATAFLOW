@@ -70,7 +70,7 @@ RegisterNumber:25015038
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-<img width="1310" height="489" alt="image" src="https://github.com/user-attachments/assets/a2ffc2ba-7b6d-4d68-8f5a-8013fb5e347b" />
+<img width="1921" height="1201" alt="image" src="https://github.com/user-attachments/assets/1102a9b1-ffc2-4f70-a1ab-b58b0b7d23f4" />
 
 
 **RESULTS**
